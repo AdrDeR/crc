@@ -3,7 +3,6 @@
 Created on Thu Dec 19 09:29:43 2019
 
 Transmission of a serial command with CRC-8 byte calculation 
-The list 
 
 @author: Adriano De Rosa
 """
